@@ -23,7 +23,8 @@ version: 1.0
 author: author
 main: your.main.path.here
 
-softdepend: [Matrix]```
+softdepend: [Matrix]
+```
 
 ## How to use the API
 This is just a basic overview of using the API. Note that some parts have broken due to not being updated
